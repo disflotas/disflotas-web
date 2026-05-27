@@ -1,4 +1,4 @@
-import { ShieldCheck, ArrowRight } from 'lucide-react'
+import { ShieldCheck } from 'lucide-react'
 import { POLICIES_LIST, POLICIES_CONTENT } from '../constants'
 
 export default function Policies() {
